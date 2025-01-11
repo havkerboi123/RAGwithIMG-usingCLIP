@@ -1,4 +1,4 @@
-![clip.png]
+![logo](clip.png)
 
 Explored multi-modal RAG with images using OpenAI's CLIP for embeddings with langChain for retrieval along with gpt4 vision.
 
